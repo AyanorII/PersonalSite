@@ -1,0 +1,36 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: dotted;
+    border-bottom-style: none;
+    border-color: grey;
+    border-width: 7px;
+    width: 5%;
+}
+
+img {
+    height: 200px;
+}
+
+h1 {
+    font-family: "Comic Sans MS", sans-serif;
+    color: #66BFBF
+}
+
+h3 {
+    font-family: "Ink Free", sans-serif;
+    color: #66BFBF
+}
+
+.center {
+    margin: auto;
+    border-spacing: 15px 0px;
+    
+}
+.center td {
+    font-family:  "Ink Free", sans-serif;
+    font-weight: bold;
+    
+}
